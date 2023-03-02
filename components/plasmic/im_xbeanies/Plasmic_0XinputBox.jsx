@@ -86,7 +86,7 @@ function Plasmic_0XinputBox__RenderFunc(props) {
           size={1}
           title={"Enter your address"}
           type={"text"}
-          value={""}
+          // value={""}
         />
       </div>
     </div>
